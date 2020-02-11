@@ -2,6 +2,9 @@
 y luego mostrarlo por 'alert' al presionar el botón  'mostrar'*/
 function mostrar()
 {
-	
+	var nombre;
+	 promt("nombre");
+
+	 alert(nombre);
 }
 
