@@ -6,13 +6,13 @@ function mostrar()
    switch (mesDelAño) {
 
    	case "Enero": alert("que comiences bien el año!!!.");
-   	     break 
+   	     break;
    	case "Marzo": alert("a clases!!!.");
-   		 break
+   		 break;
    	case "Julio": alert("se vienen las vacaciones!!!.");
-   		 break
+   		 break;
    	case "Diciembre": alert("Felices fiestas!!!.");
-   	     break
+   	     break;
 
    }
 
